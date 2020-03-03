@@ -9,5 +9,5 @@
 - Nithya Vudayamarri - s534641@nwmissouri.edu
 
 ## Links
-- (https://github.com/manasagoriparthi/workshop-impala)
+- https://github.com/manasagoriparthi/workshop-impala
 

@@ -7,7 +7,7 @@
 - Manasa Goriparthi - s534782@nwmissouri.edu
 - Bhavani Pathuri - s534867@nwmissouri.edu
 - Nithya Vudayamarri - s534641@nwmissouri.edu
-  https://github.com/manasagoriparthi/workshop-impala/blob/master/teammembers.PNG
+  ![Teamslide](https://github.com/manasagoriparthi/workshop-impala/blob/master/teammembers.PNG)
 
 ## Link to our repository
 - https://github.com/manasagoriparthi/workshop-impala

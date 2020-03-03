@@ -26,6 +26,9 @@
 - Below link can be used as the refernce for the setup: 
 
    https://www.tutorialspoint.com/impala/impala_shell.htm
+   
+## Working with Impala
+- 
   
   
 

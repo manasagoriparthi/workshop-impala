@@ -30,19 +30,19 @@
 ## Working with Impala
 - Use the following commands within impala-shell to pass requests to the impalad daemon that the shell is connected to. You can enter a   command interactively at the prompt, or pass it as the argument to the -q option of impala-shell. Most of these commands are passed to   the Impala daemon as SQL statements.
 
-- Command to Create a Database:
+- Command to Create a Database:                                                                                                         
   CREATE DATABASE IF NOT EXISTS database_name;
   
-- Command to verify
+- Command to verify                                                                                                                     
   SHOW DATABASES;
   
-- Command to use a Database:
+- Command to use a Database:                                                                                                             
   USE database_name;
   
-- Command to Drop a Database:
+- Command to Drop a Database:                                                                                                           
   DROP DATABASE IF EXISTS database_name;
   
-- Command to Create a Table:
+- Command to Create a Table:                                                                                                             
   create table IF NOT EXISTS database_name.table_name (
    column1 data_type,
    column2 data_type,
@@ -51,16 +51,17 @@
    columnN data_type
 );
 
-- Command to insert values in Table:
+- Command to insert values in Table:                                                                                                     
   insert into table_name (column1, column2, column3,...columnN)
   values (value1, value2, value3,...valueN);
-- Command to drop a Table:
+  
+- Command to drop a Table:                                                                                                               
   DROP table database_name.table_name;
   
-- Command to describe a Table:
+- Command to describe a Table:                                                                                                           
   Describe table_name;
   
-- In order to create a database in HDFS file system, you need to specify the location where the database is to be created as shown         below.
+- In order to create a database in HDFS file system, you need to specify the location where the database is to be created as shown         below.                                                                                                                                 
   CREATE DATABASE IF NOT EXISTS database_name LOCATION hdfs_path;
   
 

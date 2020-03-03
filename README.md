@@ -20,6 +20,10 @@
 - To check the list of commands available in impala execute this command - [quickstart.cloudera:21000] > help;
 - To quit from the impala shell execute this command - [quickstart.cloudera:21000] > exit; 
 - The command to connect to the given instance of impala - [quickstart.cloudera:21000] > connect; 
+- Below link can be used as the refernce for the setup:
+  https://www.tutorialspoint.com/impala/impala_shell.htm
+  
+  
 
 
 
